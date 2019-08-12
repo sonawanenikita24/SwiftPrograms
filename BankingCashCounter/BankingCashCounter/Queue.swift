@@ -34,12 +34,11 @@ struct Queue {
         //add people in que
         var q1 = Queue()
         var cash = 100000
-        // print("press 1 to withdraw")
-        //print("press 2 to deposit")
-        // let banking = Int(readLine()!)!
         
         print("enter number of pesons")
+       
         let people = Int(readLine()!)!
+        
         for _ in 0...people
         {
             print("enter person name:")

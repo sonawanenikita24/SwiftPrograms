@@ -105,5 +105,3 @@ player1.printstatus()
 
 player1.nextState()
 player1.printstatus()
-
-
